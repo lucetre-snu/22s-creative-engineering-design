@@ -1,6 +1,6 @@
 # 22s-creative-engineering-design
 창의공학설계 (2022년도, 1학기, 400.018_001)
-- Lecturer: `samstack54`
+- Lecturer, **`samstack54`**
   - [YouTube](https://www.youtube.com/user/samstack54/videos)
   - [GitHub](https://github.com/samstack54?tab=repositories)
 
