@@ -24,3 +24,5 @@
 `arduino-cli compile --fqbn arduino:avr:uno LED_ON`
 6. Upload a sketch \
 `arduino-cli upload -p COM3 --fqbn arduino:avr:uno LED_ON`
+7. Serial monitor \
+`putty COM3 -serial -sercfg 9600,8,n,1,N &`
