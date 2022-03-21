@@ -8,14 +8,8 @@ void setup() {
 }
 
 void loop() {
-  for (int i = 0; i < 3; i++) {
-    for (int j = 0; j < 256; j++) {
-      analogWrite(LED[i], j);
-      delay(5);
-    }
-    for (int j = 255; j >= 0; j--) {
-      analogWrite(LED[i], j);
-      delay(5);
-    }
-  }
+  blink(LED[0]);
+  blink(LED[1]);
+  blink(LED[2]);
+  blink(LED[1]);
 }
