@@ -4,7 +4,7 @@
 
 ### _LED_BLINK_. Connect a LED via pin #8
 
-![]("LED_BLINK/demo.mp4")
+<video src="LED_BLINK/demo.mp4"></video>
 
 ### _3_LED_BLINK_. Connect three LEDs via pin #8, #9, #10
 
@@ -28,3 +28,11 @@
 ### _LIGHT_SENSOR_
 
 <video src="LIGHT_SENSOR/demo.mp4"></video>
+
+### _PWM_LED_
+
+<video src="PWM_LED/demo.mp4"></video>
+
+### _PWM_3_LED_
+
+<video src="PWM_3_LED/demo.mp4"></video>
