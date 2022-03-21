@@ -4,7 +4,7 @@
 
 ### _LED_BLINK_. Connect a LED via pin #8
 
-<video src="LED_BLINK/demo.mp4"></video>
+![]("LED_BLINK/demo.mp4")
 
 ### _3_LED_BLINK_. Connect three LEDs via pin #8, #9, #10
 
