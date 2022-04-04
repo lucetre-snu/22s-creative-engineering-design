@@ -31,3 +31,7 @@
    `putty COM3 -serial -sercfg 9600,8,n,1,N &`
 8. Install a library \
    `arduino-cli lib install NewPing`
+
+### Error
+
+- https://arduino.stackexchange.com/questions/79668/cannot-open-source-file-wprogram-h-in-vscode
