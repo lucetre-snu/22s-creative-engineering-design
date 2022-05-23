@@ -19,9 +19,11 @@ void loop() {
   }
   if (message == "led_on") {
     digitalWrite(LED, HIGH);
+    SerialBT.println("LED TURNED ON");
   } 
   if (message == "led_off") {
     digitalWrite(LED, LOW);
+    SerialBT.println("LED TURNED OFF");
   }
   delay(20);
 }
